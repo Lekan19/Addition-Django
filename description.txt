@@ -1,0 +1,2 @@
+Create a straightforward API featuring a route for transmitting two integer values, which are then dispatched to a decoupled Messaging service.
+Within this setup, a dedicated worker undertakes the task of summing the two integers together.
